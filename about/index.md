@@ -1,26 +1,28 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: à propos des brouilleurs de blanc
+excerpt: "à propos des brouilleurs de blanc"
+modified: 2015-05-03T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: masoif.jpg
+  credit: Alexandre Dulaunoy
+  creditlink: https://www.flickr.com/photos/adulau/14994494530/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+## collectif "brouilleurs de blanc"
 
-## So Simple Theme is all about:
+un groupe.
+de l'encre, de la terre et de la lumière.
+un thème qui se déploie au gré des lettres, des mots et des images.
+du blanc qui prend forme au fil des rêveries qui se croisent, se mélangent et se répondent.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+## Membres
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+* stéphane alfonsi, calligraphie
+* vitoriano garcia, calligraphie
+* julie bonnefond, calligraphie
+* béatrice rongvaux, calligraphie
+* bernadette delforge, croquis
+* véronique leukers, céramique
+* alexandre dulaunoy, photographie
 
-[^1]: Example: *domain.com/category-name/post-title*

@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: Brouilleurs de blanc
+locale: fr_BE
+description: un groupe.  de l'encre, de la terre et de la lumière.  un thème qui se déploie au gré des lettres, des mots et des images.  du blanc qui prend forme au fil des rêveries qui se croisent, se mélangent et se répondent.
+
 logo: site-logo.png
-search: true
-url: http://localhost:4000
+search: false
+url: http://brouilleursdeblanc.org
 
 # Jekyll configuration
 
@@ -31,9 +32,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Brouilleurs de blanc
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: info@brouilleursdeblanc.org
   disqus-shortname:
   twitter: #username
   facebook: #username

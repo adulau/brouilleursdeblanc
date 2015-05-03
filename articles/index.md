@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: Expositions
+excerpt: "Expositions passées et futures."
 search_omit: true
 ---
 
