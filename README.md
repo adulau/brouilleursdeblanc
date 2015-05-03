@@ -1,6 +1,6 @@
-# Minimal website for the art collective "brouilleurs de blanc"
+# Minimal website for the artist collective "brouilleurs de blanc"
 
-This is a minimal website for the art collective "brouilleurs de blanc".
+This is a minimal website for the artist collective "brouilleurs de blanc".
 
 The web site is [www.brouilleursdeblanc.org](http://www.brouilleursdeblanc.org/).
 
